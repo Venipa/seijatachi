@@ -1,0 +1,28 @@
+@media (min-width: 768px) {
+    .container {
+        max-width: 765px;
+    }
+}
+
+#logo {
+    margin: 0 auto;
+}
+
+.ani-panel {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.ani-panel .ani-image {
+    margin-bottom: 15px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #FFF;
+    background-color: #31708F;
+}
+
+a {
+    color: #31708F;
+    text-decoration: none;
+}
